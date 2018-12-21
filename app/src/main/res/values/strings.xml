@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Incursions</string>
+    <string name="author">MandosBor</string>
+    <string name="activity">ACTIVITY</string>
+    <string name="inactivity">INACTIVITY</string>
+    <string name="ending">Ending in</string>
+    <string name="starting">Starting in</string>
+</resources>
